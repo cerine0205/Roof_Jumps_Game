@@ -1,6 +1,6 @@
 # Roof Jumps Game
 
-Rooftop Jumps is a parkour platformer game set on city rooftops.  
+Roof Jumps is a parkour platformer game set on city rooftops.  
 The player must jump across buildings, avoid falling, and reach the final destination to win.  
 The game focuses on precision, timing, and smooth movement mechanics.
 
